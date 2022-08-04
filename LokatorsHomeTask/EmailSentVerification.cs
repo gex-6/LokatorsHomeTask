@@ -44,7 +44,8 @@ namespace LokatorsHomeTask
             typeLetter.SendKeys("taras.stepanyuk@gmail.com");
             
             typeLetter.SendKeys(Keys.Tab + Keys.Tab + "Topic" + Keys.Tab + "Letter body" + Keys.Tab + Keys.Enter);
-            
+
+            driver.Quit();
             Assert.Pass();
         }
     }
