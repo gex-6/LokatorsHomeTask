@@ -1,5 +1,7 @@
-Locators and Chrome dev tools home task.
+#Test: Verify the sending of the letter
 
-Thanks!
+The test verifies the loggin into Gmail account and sending the letter.
 
-Taras Stepaniuk
+Additional task: using different types of locators.
+
+Tools: Selenium, NUnit Test
