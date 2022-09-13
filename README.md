@@ -1,4 +1,4 @@
-#Test: Verify the sending of the letter
+# Test: Verify the sending of the letter
 
 The test verifies the loggin into Gmail account and sending the letter.
 
